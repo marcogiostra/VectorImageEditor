@@ -1,0 +1,79 @@
+﻿using System;
+using System.Drawing;
+using EditorModel.Common;
+using EditorModel.Figures;
+using System.Drawing.Drawing2D;
+
+namespace EditorModel.Renderers
+{
+    
+    [Serializable]
+    public class ShadowRendererDecorator : RendererDecorator
+    {
+        private readonly Renderer _renderer;
+        private int _opacity;
+        public PointF Offset { get; set; }
+
+       
+        public Color Color { get; set; }
+
+        public int Opacity
+        {
+            get { return _opacity; }
+            set
+            {
+                if (value < 0 || value > 255) return;
+                _opacity = value;
+            }
+        }
+
+        public ShadowRendererDecorator(Renderer renderer) 
+            : base(renderer)
+        {
+            _renderer = renderer;
+            Offset = new PointF(10, 10);
+            Opacity = 128;
+            Color = Color.Black;
+        }
+
+        public override void Render(Graphics graphics, Figure figure)
+        {
+            var baseRenderer = GetBaseRenderer(figure.Renderer) as IRendererTransformedPath;
+            
+            using (var path = baseRenderer != null
+                ? baseRenderer.GetTransformedPath(graphics, figure)
+                : figure.GetTransformedPath().Path)
+            {
+                graphics.TranslateTransform(Offset.X, Offset.Y);
+                var shadowColor = Color.FromArgb(Opacity, Color);
+                if (figure.Style.FillStyle != null)
+                {
+                    if ((!figure.Style.FillStyle.IsVisible) &&
+                        figure.Style.BorderStyle != null && figure.Style.BorderStyle.IsVisible)
+                        using (var pen = figure.Style.BorderStyle.GetPen(figure))
+                        {
+                            pen.Color = shadowColor;
+                            graphics.DrawPath(pen, path);
+                        }
+                    if (figure.Style.FillStyle.IsVisible)
+                        using (var brush = new SolidBrush(shadowColor))
+                            graphics.FillPath(brush, path);
+                }
+                graphics.TranslateTransform(-Offset.X, -Offset.Y);
+            }
+            _renderer.Render(graphics, figure);
+        }
+
+      
+        public override AllowedRendererDecorators AllowedDecorators
+        {
+            get { return AllowedRendererDecorators.All ^ (AllowedRendererDecorators.Shadow | AllowedRendererDecorators.TextBlock); }
+        }
+
+        public override string ToString()
+        {
+            return "Shadow";
+        }
+
+    }
+}

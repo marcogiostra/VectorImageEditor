@@ -1,0 +1,9 @@
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VetorImageEditor\VetorImageEditor\bin\Debug\VetorImageEditor.exe.config
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VetorImageEditor\VetorImageEditor\bin\Debug\VetorImageEditor.exe
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VetorImageEditor\VetorImageEditor\bin\Debug\VetorImageEditor.pdb
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VetorImageEditor\VetorImageEditor\obj\Debug\VetorImageEditor.csproj.AssemblyReference.cache
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VetorImageEditor\VetorImageEditor\obj\Debug\VetorImageEditor.Properties.Resources.resources
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VetorImageEditor\VetorImageEditor\obj\Debug\VetorImageEditor.csproj.GenerateResource.cache
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VetorImageEditor\VetorImageEditor\obj\Debug\VetorImageEditor.csproj.CoreCompileInputs.cache
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VetorImageEditor\VetorImageEditor\obj\Debug\VetorImageEditor.exe
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VetorImageEditor\VetorImageEditor\obj\Debug\VetorImageEditor.pdb

@@ -1,0 +1,64 @@
+E:\svil_Giosh\000_MAGAZZINO ESEMPI\vector\VectorGraphicsEditor-master\VectorGraphicsEditor-master\EditorModel\bin\Debug\EditorModel.dll
+E:\svil_Giosh\000_MAGAZZINO ESEMPI\vector\VectorGraphicsEditor-master\VectorGraphicsEditor-master\EditorModel\bin\Debug\EditorModel.pdb
+E:\svil_Giosh\000_MAGAZZINO ESEMPI\vector\VectorGraphicsEditor-master\VectorGraphicsEditor-master\EditorModel\obj\Debug\EditorModel.csproj.AssemblyReference.cache
+E:\svil_Giosh\000_MAGAZZINO ESEMPI\vector\VectorGraphicsEditor-master\VectorGraphicsEditor-master\EditorModel\obj\Debug\EditorModel.csproj.CoreCompileInputs.cache
+E:\svil_Giosh\000_MAGAZZINO ESEMPI\vector\VectorGraphicsEditor-master\VectorGraphicsEditor-master\EditorModel\obj\Debug\EditorModel.dll
+E:\svil_Giosh\000_MAGAZZINO ESEMPI\vector\VectorGraphicsEditor-master\VectorGraphicsEditor-master\EditorModel\obj\Debug\EditorModel.pdb
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VetorImageEditor\EditorModel\bin\Debug\EditorModel.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VetorImageEditor\EditorModel\bin\Debug\EditorModel.pdb
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VetorImageEditor\EditorModel\obj\Debug\EditorModel.csproj.AssemblyReference.cache
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VetorImageEditor\EditorModel\obj\Debug\EditorModel.csproj.CoreCompileInputs.cache
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VetorImageEditor\EditorModel\obj\Debug\EditorModel.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VetorImageEditor\EditorModel\obj\Debug\EditorModel.pdb
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\bin\Debug\EditorModel.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\bin\Debug\EditorModel.pdb
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\obj\Debug\EditorModel.csproj.AssemblyReference.cache
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\obj\Debug\EditorModel.csproj.CoreCompileInputs.cache
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\obj\Debug\EditorModel.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\obj\Debug\EditorModel.pdb
+E:\svil_Giosh\____010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\bin\Debug\EditorModel.dll
+E:\svil_Giosh\____010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\bin\Debug\EditorModel.pdb
+E:\svil_Giosh\____010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\obj\Debug\EditorModel.csproj.AssemblyReference.cache
+E:\svil_Giosh\____010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\obj\Debug\EditorModel.csproj.CoreCompileInputs.cache
+E:\svil_Giosh\____010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\obj\Debug\EditorModel.dll
+E:\svil_Giosh\____010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\obj\Debug\EditorModel.pdb
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\_VectorImageEditor2\EditorModel\bin\Debug\EditorModel.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\_VectorImageEditor2\EditorModel\bin\Debug\EditorModel.pdb
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\_VectorImageEditor2\EditorModel\obj\Debug\EditorModel.csproj.AssemblyReference.cache
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\_VectorImageEditor2\EditorModel\obj\Debug\EditorModel.csproj.CoreCompileInputs.cache
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\_VectorImageEditor2\EditorModel\obj\Debug\EditorModel.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\_VectorImageEditor2\EditorModel\obj\Debug\EditorModel.pdb
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\bin\Debug\EditorModel.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\bin\Debug\EditorModel.pdb
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\bin\Debug\ExCSS.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\bin\Debug\Svg.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\bin\Debug\System.Buffers.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\bin\Debug\System.Memory.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\bin\Debug\System.Numerics.Vectors.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\bin\Debug\Svg.xml
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\bin\Debug\System.Buffers.xml
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\bin\Debug\System.Memory.xml
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\bin\Debug\System.Numerics.Vectors.xml
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\obj\Debug\EditorModel.csproj.AssemblyReference.cache
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\obj\Debug\EditorModel.Properties.Resources.resources
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\obj\Debug\EditorModel.csproj.GenerateResource.cache
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\obj\Debug\EditorModel.csproj.CoreCompileInputs.cache
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\obj\Debug\EditorMo.5C35DD24.Up2Date
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\obj\Debug\EditorModel.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali_DA SVILUPPARE\VectorImageEditor\EditorModel\obj\Debug\EditorModel.pdb
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\bin\Debug\ExCSS.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\bin\Debug\Svg.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\bin\Debug\System.Buffers.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\bin\Debug\System.Memory.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\bin\Debug\System.Numerics.Vectors.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\bin\Debug\Svg.xml
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\bin\Debug\System.Buffers.xml
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\bin\Debug\System.Memory.xml
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\bin\Debug\System.Numerics.Vectors.xml
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\obj\Debug\EditorModel.Properties.Resources.resources
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\obj\Debug\EditorModel.csproj.GenerateResource.cache
+E:\svil_Giosh\010_CreatoreImmaginiVettoriali\VectorImageEditor\EditorModel\obj\Debug\EditorMo.5C35DD24.Up2Date
